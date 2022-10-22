@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bình An <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">私はハノイ工科大学の学生です</h3>
+<h3 align="center">ハノイ工科大学の学生</h3>
 
 - 🔭 I’m currently working on my **Python Course**
 
