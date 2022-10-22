@@ -24,13 +24,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
-  <a href="[https://www.w3schools.com/cpp/cpp_intro.asp]" target="_blank"> 
-    <img src="https://www.pngegg.com/en/png-byoxw" alt="C++" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://www.pngegg.com/en/png-byoxw)" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
+   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   
   <a href="https://www.linux.org/" target="_blank"> 
@@ -42,8 +36,8 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=anbinh93&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anbinh93&theme=react&layout=compact" />
 </p>
 
 ------
