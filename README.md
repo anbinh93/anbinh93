@@ -25,10 +25,10 @@
 
 <p align="center"> 
   <a href="[https://www.w3schools.com/cpp/cpp_intro.asp]" target="_blank"> 
-    <img src="https://www.pngegg.com/en/png-byoxw" alt="html5" width="40" height="40"/> 
+    <img src="https://www.pngegg.com/en/png-byoxw" alt="C++" width="40" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://www.pngegg.com/en/png-byoxw)" alt="css3" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
